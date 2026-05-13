@@ -1,0 +1,8 @@
+2026-05-12 22:07:38 - training_pipeline - INFO - Using device: cpu
+2026-05-12 22:07:38 - training_pipeline - INFO - --- Step 1: Preprocessing ---
+2026-05-12 22:07:42 - training_pipeline - INFO - --- Step 2: Training Temporal & Latent Models ---
+2026-05-12 22:07:42 - training_pipeline - INFO - Models initialized. Skipping training for scaffold demo.
+2026-05-12 22:07:42 - training_pipeline - INFO - --- Step 3: Initializing Environment ---
+2026-05-12 22:07:45 - training_pipeline - INFO - --- Step 4: Training DQN ---
+2026-05-12 22:07:47 - training_pipeline - INFO - --- Step 5: Training PPO ---
+2026-05-12 22:07:48 - training_pipeline - INFO - --- Step 6: Training CQL ---
