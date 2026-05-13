@@ -1,0 +1,9 @@
+2026-05-12 22:10:23 - model_comparison - INFO - Evaluating DQN...
+2026-05-12 22:10:23 - model_comparison - INFO - Evaluating PPO...
+2026-05-12 22:10:23 - model_comparison - INFO - Evaluating CQL...
+2026-05-12 22:10:23 - model_comparison - INFO - 
+Comparison Results:
+  Model  cumulative_reward  average_reward  reward_std  final_sofa  sofa_improvement  avg_stability  mortality_predicted  unsafe_action_rate  constraint_violation_rate
+0   DQN             -412.3          -41.23   91.606463           2                 2            1.0                  0.1                 0.0                        0.0
+1   PPO             -211.7          -21.17   97.914831           3                -1            1.0                  0.1                 0.0                        0.0
+2   CQL              388.3           38.83   91.605928           2                 0            1.0                  0.1                 0.0                        0.0
