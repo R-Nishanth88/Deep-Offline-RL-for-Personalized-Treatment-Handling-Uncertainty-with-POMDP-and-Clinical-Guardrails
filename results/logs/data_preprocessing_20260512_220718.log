@@ -1,0 +1,4 @@
+2026-05-12 22:07:20 - data_preprocessing - INFO - Starting trajectory processing...
+2026-05-12 22:07:20 - data_preprocessing - INFO - Loading ICUSTAYS from ./data/raw/ICUSTAYS.csv
+2026-05-12 22:07:20 - data_preprocessing - INFO - Loading ADMISSIONS from ./data/raw/ADMISSIONS.csv
+2026-05-12 22:07:20 - data_preprocessing - INFO - Loading PATIENTS from ./data/raw/PATIENTS.csv
